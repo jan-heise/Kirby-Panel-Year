@@ -1,0 +1,17 @@
+{
+  "name": "heise.rocks/kirby-panel-year",
+  "description": "Use the current year in your panel fields",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Jan Heise",
+      "email": "jan@heise.rocks",
+      "homepage": "https://heise.rocks"
+    }
+  ],
+  "require": {
+    "getkirby/composer-installer": "^1.1"
+  }
+}
